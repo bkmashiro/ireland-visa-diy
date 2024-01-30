@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Ireland Visa DIY
+description: DIY your Ireland Visa at minimal cost!
+show_downloads: true

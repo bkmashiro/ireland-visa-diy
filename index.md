@@ -12,7 +12,7 @@
 
 ### 正文
 
-应当准备的材料
+[应当准备的材料](/steps/what-documents-you-need.md)
 
 递交申请
 

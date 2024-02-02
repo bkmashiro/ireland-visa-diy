@@ -11,9 +11,11 @@
 
 关于时间：递交申请之后的一周内基本能下签
 
-单次签证：一般只需要邮寄，有时需要面签
+单次签证：一般只需要邮寄，有时需要面签（给3月入境时间）
 
-多次签证：面签
+多次签证：面签（三月内如果需要出入境需办理）
+
+IRP卡：入境后办理，之后可以凭此卡出入境
 
 ## 大纲
 
@@ -23,7 +25,7 @@
 4. 照片
 5. 身份证明文件
 6. 教育、工作历史
-7. 签证费用
+7. 签证费用缴纳证明
 8. 爱尔兰学校的全日制录取证明
 9. 已缴纳学费的证明
 10. 英语(或爱尔兰语)的水平证明
@@ -95,7 +97,7 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 
 详细收费标准参见：https://www.irishimmigration.ie/preclearance-and-entry-visas-fees/
 
-
+缴纳证明需要打印
 
 
 
@@ -113,7 +115,7 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 >
 > *注意：如果课程费用低于 6,000 欧元，您必须在申请签证之前向学院全额支付费用。 如果课程费用超过 6,000 欧元，您必须在申请签证之前支付至少 6,000 欧元的学费。 已付学费的信息应 该在您的录取通知书中可见。 这个最低金额是签证政策的要求， 但是您希望就读的大学可能会要求全 额支付费用。
 
-
+需要打印
 
 ### 英语(或爱尔兰语)的水平证明
 
@@ -133,6 +135,8 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 >
 > 学信网学历证明/学籍在线验证报告（CHSI）（仅限中国申请人）
 
+打印，双语。
+
 
 
 ### 资金证明
@@ -140,6 +144,8 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 大额存单。
 
 父母工作收入证明。
+
+流水（银行卡，支付宝等；对于大额的资金出入账，需要进行说明）
 
 > 如果您个人承担在爱尔兰学习的费用，您必须提供:
 >
@@ -180,8 +186,9 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 - vhi.ie
 - layahealthcare.ie
 - irishlifehealth.ie
+- studyandprotect.com （一年160欧）
 
-
+需要打印证明。
 
 
 

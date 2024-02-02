@@ -4,6 +4,17 @@
 
 所有信函的开具日期需在申请日期前4周内。
 
+所有文件都需要中英文版本。
+翻译件规范需要包含译者承诺与信息。
+
+以下部分文件并非必须，也并非全部，签证官可能会询问更多文件。
+
+关于时间：递交申请之后的一周内基本能下签
+
+单次签证：一般只需要邮寄，有时需要面签
+
+多次签证：面签
+
 ## 大纲
 
 1. 申请表
@@ -48,9 +59,11 @@
 > 之前被任何其他国家拒签的详细信息。 未能如实披露之前的拒签记录将导致您的爱尔兰签证申请被拒绝。
 > 中国国家移民局网站上的出入境记录（仅限中国申请人）。
 
-
+出入境记录需要中英文翻译
 
 ### 照片
+
+2寸照，2张。
 
 规范：https://www.irishimmigration.ie/photograph-rules-for-visa-applications/
 
@@ -167,6 +180,8 @@ https://www.irishimmigration.ie/wp-content/uploads/2023/05/IRL-study-visa-financ
 - vhi.ie
 - layahealthcare.ie
 - irishlifehealth.ie
+
+
 
 
 
